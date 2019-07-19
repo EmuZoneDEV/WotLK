@@ -56,11 +56,11 @@ INSERT INTO gossip_menu (menuid, textid) VALUES
 -- Gossip header texts
 
 INSERT INTO npc_text (ID, text0_0, em0_1) VALUES
-(@TEXT_ID+4, "$BWhere would you like to be ported?$B", 0),
-(@TEXT_ID+3, "$BBe careful with choosing raids, I won't be there if you wipe.$B", 0),
-(@TEXT_ID+2, "$BUp for some dungeon exploring?$B", 0),
-(@TEXT_ID+1, "$B For The Alliance!$B", 6),
-(@TEXT_ID,  "$B For the Horde!$B", 6);
+(@TEXT_ID+4, "$BWohin möchtest Du reisen?$B", 0),
+(@TEXT_ID+3, "$BSei vorsichtig bei der auswahl des Schlachtzuges, ich möchte enicht für deinen Tod verantwortlich sein.$B", 0),
+(@TEXT_ID+2, "$BBereit einige Dungeons zu erkunden?$B", 0),
+(@TEXT_ID+1, "$B Für die Allianz!$B", 6),
+(@TEXT_ID,  "$B Für die Horde!$B", 6);
 
 -- Conditions for gossip option and menu factions
 
