@@ -1,2 +1,1 @@
-# WotLK_World
- World Database for WarCry-Core
+<p div align="center"><img src="https://raw.githubusercontent.com/EmuZoneDEV/WARCRYCORE-CLASSIC/master/icons/WC_Core_Logo_Black.png" width=500px></img></p>
