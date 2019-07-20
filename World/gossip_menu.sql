@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-19 03:01:52
+Date: 2019-07-20 02:20:21
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -5724,7 +5724,7 @@ INSERT INTO `gossip_menu` VALUES ('1216', '1816', '0');
 INSERT INTO `gossip_menu` VALUES ('1217', '1817', '0');
 INSERT INTO `gossip_menu` VALUES ('10317', '14372', '0');
 INSERT INTO `gossip_menu` VALUES ('8554', '10707', '0');
-INSERT INTO `gossip_menu` VALUES ('50001', '50001', '0');
+INSERT INTO `gossip_menu` VALUES ('50008', '300004', '0');
 INSERT INTO `gossip_menu` VALUES ('3693', '3334', '0');
 INSERT INTO `gossip_menu` VALUES ('3692', '3213', '0');
 INSERT INTO `gossip_menu` VALUES ('411', '5996', '0');
@@ -6006,3 +6006,12 @@ INSERT INTO `gossip_menu` VALUES ('5675', '6954', '0');
 INSERT INTO `gossip_menu` VALUES ('5781', '6955', '0');
 INSERT INTO `gossip_menu` VALUES ('5784', '6956', '0');
 INSERT INTO `gossip_menu` VALUES ('5783', '6958', '0');
+INSERT INTO `gossip_menu` VALUES ('50007', '300004', '0');
+INSERT INTO `gossip_menu` VALUES ('50006', '300004', '0');
+INSERT INTO `gossip_menu` VALUES ('50005', '300004', '0');
+INSERT INTO `gossip_menu` VALUES ('50004', '300003', '0');
+INSERT INTO `gossip_menu` VALUES ('50003', '300002', '0');
+INSERT INTO `gossip_menu` VALUES ('50002', '300002', '0');
+INSERT INTO `gossip_menu` VALUES ('50001', '300002', '0');
+INSERT INTO `gossip_menu` VALUES ('50000', '300001', '0');
+INSERT INTO `gossip_menu` VALUES ('50000', '300000', '0');
