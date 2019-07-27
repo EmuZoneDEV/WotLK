@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-19 02:57:36
+Date: 2019-07-27 22:11:52
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -11597,3 +11597,5 @@ INSERT INTO `creature_template_addon` VALUES ('21365', '0', '0', '0', '0', '0', 
 INSERT INTO `creature_template_addon` VALUES ('21934', '0', '0', '0', '1', '0', '0', '37935');
 INSERT INTO `creature_template_addon` VALUES ('21585', '0', '0', '0', '4098', '333', '0', '38805 38803 40448');
 INSERT INTO `creature_template_addon` VALUES ('21587', '0', '0', '0', '4098', '376', '0', '36610');
+INSERT INTO `creature_template_addon` VALUES ('190000', '0', '0', '0', '0', '0', '0', '30540');
+INSERT INTO `creature_template_addon` VALUES ('190001', '0', '0', '0', '0', '0', '0', '');

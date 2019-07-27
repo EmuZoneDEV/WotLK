@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-19 03:00:27
+Date: 2019-07-27 22:14:55
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -27,7 +27,7 @@ CREATE TABLE `game_tele` (
   `map` smallint(5) unsigned NOT NULL DEFAULT '0',
   `name` varchar(100) NOT NULL DEFAULT '',
   PRIMARY KEY (`id`)
-) ENGINE=MyISAM AUTO_INCREMENT=1433 DEFAULT CHARSET=utf8 COMMENT='Tele Command';
+) ENGINE=MyISAM AUTO_INCREMENT=1437 DEFAULT CHARSET=utf8 COMMENT='Tele Command';
 
 -- ----------------------------
 -- Records of game_tele
@@ -1464,3 +1464,7 @@ INSERT INTO `game_tele` VALUES ('1429', '3670.24', '6784.35', '170.181', '1.4044
 INSERT INTO `game_tele` VALUES ('1430', '3606.76', '5944.54', '136.216', '2.84247', '571', 'AmberLedge');
 INSERT INTO `game_tele` VALUES ('1431', '2967.29', '6788.09', '7.05211', '5.86967', '571', 'Garrosh\'sLanding');
 INSERT INTO `game_tele` VALUES ('1432', '3543.21', '271.834', '342.721', '3.15239', '571', 'WyrmrestTemple');
+INSERT INTO `game_tele` VALUES ('1433', '-1848.36', '-4094.62', '9.07558', '2.3301', '0', 'Gildenhaus01');
+INSERT INTO `game_tele` VALUES ('1434', '2947.86', '-3281.41', '157.711', '1.72603', '1', 'Waldeslied');
+INSERT INTO `game_tele` VALUES ('1435', '-77.1297', '-4320.92', '158.403', '5.45902', '1', 'Ausblick01');
+INSERT INTO `game_tele` VALUES ('1436', '841.973', '-5567.42', '3.53091', '5.73867', '571', 'Dolchbucht');

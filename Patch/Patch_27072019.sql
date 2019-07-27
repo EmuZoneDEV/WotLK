@@ -1,0 +1,36 @@
+
+UPDATE creature_template SET scale='1.25' WHERE entry=3901;
+UPDATE quest_template SET ObjectiveText1='Den Folianten von Mel Thandris ansehen' WHERE ID=1022;
+UPDATE quest_template SET ObjectiveText1='Hochlandmustangs verängstigt' WHERE ID=12415;
+UPDATE quest_template SET ObjectiveText1='Runen mit zerbrochener Schrifttafel verglichen' WHERE ID=11366;
+UPDATE quest_template SET ObjectiveText1='Gefangener von Gjalerbron befreit' WHERE ID=11265;
+UPDATE quest_template SET ObjectiveText1='König Ymiron getötet' WHERE ID=13132;
+UPDATE quest_template SET ObjectiveText1='Hüttenfeuer gelöscht' WHERE ID=12859;
+UPDATE quest_template SET ObjectiveText1='Gefangene Zornklaue befreit' WHERE ID=12861;
+UPDATE quest_template SET ObjectiveText1='Eistroll lebend gefangen' WHERE ID=11984;
+UPDATE quest_template SET ObjectiveText4='Schatten von Arugal besiegt' WHERE ID=12164;
+UPDATE quest_template SET ObjectiveText1='Kreuzfahrer Dargath gefunden' WHERE ID=12903;
+UPDATE quest_template SET ObjectiveText2='Gerk gefunden' WHERE ID=12903;
+UPDATE quest_template SET ObjectiveText3='Burr gefunden' WHERE ID=12903;
+UPDATE quest_template SET ObjectiveText1='Haarproben gesammelt' WHERE ID=12630;
+UPDATE quest_template SET ObjectiveText1='Zweck des Halsreifs herausgefunden' WHERE ID=12637;
+UPDATE quest_template SET ObjectiveText1='Zerfallende Ghule gefüttert' WHERE ID=12652;
+UPDATE quest_template SET ObjectiveText1='Oberanführer Drakurus Auftrag erledigt' WHERE ID=12661;
+UPDATE quest_template SET ObjectiveText1='Umzäunung der Geißel in die Luft gejagt' WHERE ID=12916;
+UPDATE quest_template SET ObjectiveText2='Algar der Auserwählte getötet' WHERE ID=12919;
+UPDATE quest_template SET ObjectiveText3='Thrym getötet' WHERE ID=12919;
+UPDATE quest_template SET ObjectiveText4='Prinz Navarius getötet' WHERE ID=12919;
+UPDATE quest_template SET ObjectiveText1='Diener der Geißel erschlagen' WHERE ID=12919;
+UPDATE quest_template SET ObjectiveText1='Rundflug über Zul Drak beendet' WHERE ID=12664;
+UPDATE quest_template SET ObjectiveText1='Diener der Geißel in der Argentumwache vernichtet' WHERE ID=12503;
+UPDATE quest_template SET ObjectiveText1='Truppen des Argentumkreuzzugs mit Fallschirm ausgerüstet' WHERE ID=12740;
+UPDATE quest_template SET ObjectiveText1='Hauptmann Brandons Aufgabe' WHERE ID=12596;
+UPDATE quest_template SET ObjectiveText2='Hauptmann Ruperts Aufgabe' WHERE ID=12596;
+UPDATE quest_template SET ObjectiveText3='Hauptmann Grondels Aufgabe' WHERE ID=12596;
+UPDATE quest_template SET ObjectiveText4='Alchemist Finkelsteins Aufgabe' WHERE ID=12596;
+UPDATE quest_template SET ObjectiveText1='Nerubische Tunnel versiegelt' WHERE ID=12598;
+UPDATE quest_template SET ObjectiveText1='Gefangener Fußsoldat befreit' WHERE ID=12606;
+UPDATE quest_template SET ObjectiveText1='Seuchensprüher im Netz gefangen und zerstört' WHERE ID=12555;
+UPDATE quest_template SET ObjectiveText1='Schlammige Moormade gefunden' WHERE ID=12557
+UPDATE quest_template SET ObjectiveText1='Anhänger von Sseratus erschlagen ' WHERE ID=12508;
+UPDATE quest_template SET ObjectiveText1='Befehl an Argentumsoldaten weitergegeben' WHERE ID=12504;

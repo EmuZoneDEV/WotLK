@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-19 03:00:57
+Date: 2019-07-27 22:15:27
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -18049,3 +18049,4 @@ INSERT INTO `gameobject_loot_template` VALUES ('26956', '3', '34154', '10', '0',
 INSERT INTO `gameobject_loot_template` VALUES ('26956', '45038', '0', '8', '0', '1', '0', '1', '1', 'Thorim25 - Val\'anyr fragment');
 INSERT INTO `gameobject_loot_template` VALUES ('26956', '45087', '0', '10', '0', '1', '0', '1', '1', 'Thorim25 - Runed Orb');
 INSERT INTO `gameobject_loot_template` VALUES ('26956', '47241', '0', '100', '0', '1', '0', '1', '1', 'Thorim25 - Emblem of Triumph');
+INSERT INTO `gameobject_loot_template` VALUES ('244606', '13704', '0', '100', '1', '1', '0', '1', '1', 'Skelettschlüssel');

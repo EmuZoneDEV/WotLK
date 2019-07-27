@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-19 03:04:41
+Date: 2019-07-27 22:20:13
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -1979,3 +1979,4 @@ INSERT INTO `page_text` VALUES ('2824', 'During the Third War, the villainous Pr
 INSERT INTO `page_text` VALUES ('2825', 'In the midst of the elves\' darkest hour came Kael\'thas Sunstrider - the last of Quel\'Thalas\' royal bloodline. Kael, as he was commonly known, knew that the remnants of his people would not long survive without the nourishing magics that once empowered them. Renaming his people blood elves, in honor of their fallen countrymen, he taught them how to tap into ambient mystical energies- even demonic energies - in order to sate their terrible thirst for magic.', '2826', '0');
 INSERT INTO `page_text` VALUES ('2826', 'In search of a new destiny for his people - referred to in the elven vernacular now as the Sin\'dorei - Kael\'thas ventured to the remote world of Outland where he encountered the fallen night elf, Illidan. Under Illidan\'s tutelage, Kael and his blood elves have regained much of their former power.', '2827', '0');
 INSERT INTO `page_text` VALUES ('2827', 'Unfortunately, the blood elves\' practice of embracing demonic energies resulted in them being shunned by their former comrades in the Alliance. Thus, he remaining blood elves on Azeroth look desperately to the Horde to help them reach Outland, where they can reunite with Kael\'thas and achieve the golden destiny he promised them.', '0', '0');
+INSERT INTO `page_text` VALUES ('4500', 'Willkommen $C!$B$BWir freuen uns sehr das Du den Weg auf unseren Server gefunden hast. Um dich bei deinen Abenteuern ein wenig zu unterstützen, erhältst du beim Verkauf dieses Briefes bei einem beliebigem Händler 500 Goldstücke.$B$BViel Spaß beim spielen!', '0', '0');

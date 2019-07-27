@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-19 03:05:07
+Date: 2019-07-27 22:20:42
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -11083,3 +11083,4 @@ INSERT INTO `pickpocketing_loot_template` VALUES ('2764', '5429', '0', '10', '0'
 INSERT INTO `pickpocketing_loot_template` VALUES ('2764', '3771', '0', '6', '0', '1', '0', '1', '1', null);
 INSERT INTO `pickpocketing_loot_template` VALUES ('2764', '1710', '0', '5', '0', '1', '0', '1', '1', null);
 INSERT INTO `pickpocketing_loot_template` VALUES ('20879', '27854', '0', '8', '0', '1', '0', '1', '1', null);
+INSERT INTO `pickpocketing_loot_template` VALUES ('190001', '25847', '0', '100', '0', '1', '0', '1', '1', null);

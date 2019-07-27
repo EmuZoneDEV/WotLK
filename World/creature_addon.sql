@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-19 02:55:53
+Date: 2019-07-27 22:10:00
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -32332,7 +32332,6 @@ INSERT INTO `creature_addon` VALUES ('107998', '0', '23524', '0', '0', '0', '3',
 INSERT INTO `creature_addon` VALUES ('118574', '0', '23524', '0', '0', '0', '3', null);
 INSERT INTO `creature_addon` VALUES ('97508', '0', '0', '0', '0', '0', '3', null);
 INSERT INTO `creature_addon` VALUES ('118188', '1181880', '0', '50331648', '0', '0', '5', null);
-INSERT INTO `creature_addon` VALUES ('115879', '1158790', '0', '0', '0', '0', '4', null);
 INSERT INTO `creature_addon` VALUES ('111429', '0', '0', '50331648', '0', '0', '3', null);
 INSERT INTO `creature_addon` VALUES ('110542', '1105420', '0', '0', '1', '0', '0', null);
 INSERT INTO `creature_addon` VALUES ('43474', '434740', '0', '0', '1', '69', '0', '');
@@ -35926,9 +35925,7 @@ INSERT INTO `creature_addon` VALUES ('110905', '0', '0', '0', '1', '0', '0', '')
 INSERT INTO `creature_addon` VALUES ('110914', '0', '0', '0', '1', '0', '0', '');
 INSERT INTO `creature_addon` VALUES ('110940', '0', '0', '0', '1', '0', '0', '');
 INSERT INTO `creature_addon` VALUES ('61553', '615530', '0', '0', '0', '0', '0', null);
-INSERT INTO `creature_addon` VALUES ('60891', '0', '0', '3', '1', '0', '0', null);
 INSERT INTO `creature_addon` VALUES ('60903', '0', '0', '3', '0', '0', '0', null);
-INSERT INTO `creature_addon` VALUES ('60892', '608920', '0', '0', '1', '0', '0', null);
 INSERT INTO `creature_addon` VALUES ('60900', '609000', '0', '0', '1', '0', '0', null);
 INSERT INTO `creature_addon` VALUES ('61693', '616930', '0', '0', '1', '0', '0', null);
 INSERT INTO `creature_addon` VALUES ('61694', '0', '0', '1', '1', '0', '0', null);
@@ -36376,3 +36373,4 @@ INSERT INTO `creature_addon` VALUES ('109149', '1091490', '0', '0', '1', '0', '0
 INSERT INTO `creature_addon` VALUES ('109150', '1091500', '0', '0', '1', '0', '0', '40306');
 INSERT INTO `creature_addon` VALUES ('109151', '1091510', '0', '0', '1', '0', '0', '40306');
 INSERT INTO `creature_addon` VALUES ('109649', '1096490', '0', '0', '1', '0', '0', '');
+INSERT INTO `creature_addon` VALUES ('213856', '213856', '0', '0', '0', '0', '0', null);

@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-19 02:59:18
+Date: 2019-07-27 22:13:39
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -9711,3 +9711,6 @@ INSERT INTO `game_event_creature` VALUES ('1', '213814');
 INSERT INTO `game_event_creature` VALUES ('1', '213815');
 INSERT INTO `game_event_creature` VALUES ('1', '213816');
 INSERT INTO `game_event_creature` VALUES ('1', '213817');
+INSERT INTO `game_event_creature` VALUES ('25', '213853');
+INSERT INTO `game_event_creature` VALUES ('25', '213855');
+INSERT INTO `game_event_creature` VALUES ('25', '213856');

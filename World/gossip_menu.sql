@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-20 02:20:21
+Date: 2019-07-27 22:16:28
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -6015,3 +6015,49 @@ INSERT INTO `gossip_menu` VALUES ('50002', '300002', '0');
 INSERT INTO `gossip_menu` VALUES ('50001', '300002', '0');
 INSERT INTO `gossip_menu` VALUES ('50000', '300001', '0');
 INSERT INTO `gossip_menu` VALUES ('50000', '300000', '0');
+INSERT INTO `gossip_menu` VALUES ('50020', '300010', '0');
+INSERT INTO `gossip_menu` VALUES ('50021', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50022', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50023', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50024', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50025', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50026', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50027', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50028', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50029', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50030', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50031', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50032', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50033', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50034', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50035', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50036', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50037', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50038', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50039', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50040', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50041', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50042', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50043', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50044', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50045', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50046', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50047', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50048', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50049', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50050', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50051', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50052', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50053', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50054', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50055', '300012', '0');
+INSERT INTO `gossip_menu` VALUES ('50056', '300011', '0');
+INSERT INTO `gossip_menu` VALUES ('50057', '300013', '0');
+INSERT INTO `gossip_menu` VALUES ('50058', '300013', '0');
+INSERT INTO `gossip_menu` VALUES ('50059', '300013', '0');
+INSERT INTO `gossip_menu` VALUES ('50060', '300013', '0');
+INSERT INTO `gossip_menu` VALUES ('50061', '300014', '0');
+INSERT INTO `gossip_menu` VALUES ('50062', '300015', '0');
+INSERT INTO `gossip_menu` VALUES ('50063', '300016', '0');
+INSERT INTO `gossip_menu` VALUES ('50064', '300013', '0');
+INSERT INTO `gossip_menu` VALUES ('50065', '300013', '0');
