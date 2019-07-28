@@ -1,8 +1,8 @@
 <p div align="center"><img src="https://raw.githubusercontent.com/EmuZoneDEV/WARCRYCORE-CLASSIC/master/icons/WC_Core_Logo_Black.png" width=350px></img>
 <br>
-<b>Lokalisierte und Modifizierte Datenbank für TrinityCore 3.3.5 Build Realms</b></p>
-<p><b>Hard Coded Extras (Transmogrification + Game Object Scaling)</b></p>
-<p><b>Soft Coded Extras (Teleport NPC + Music/Jukebox)</b></p>
+<b>Lokalisierte und Modifizierte Datenbank für TrinityCore 3.3.5 Build Realms</b>
+<b>Hard Coded Extras (Transmogrification + Game Object Scaling)</b>
+<b>Soft Coded Extras (Teleport NPC + Music/Jukebox)</b></p>
 <br>
 <p>
 <li><a href="https://raw.githubusercontent.com/EmuZoneDEV/WotLK_World/master/Core/Core.7z">Release 64 Bit</a></li>
