@@ -1,4 +1,4 @@
-<p div align="center"><img src="https://raw.githubusercontent.com/EmuZoneDEV/WARCRYCORE-CLASSIC/master/icons/WC_Core_Logo_Black.png" width=350px></img>
+<p div align="center"><img src="https://raw.githubusercontent.com/EmuZoneDEV/WotLK/master/Docs/images/WCC_Logo.png"></img>
 <br>
 <b>Lokalisierte und Modifizierte Datenbank für TrinityCore 3.3.5 Build Realms | </b>
 <b>Hard Coded Extras (Transmogrification + Game Object Scaling) | </b>
