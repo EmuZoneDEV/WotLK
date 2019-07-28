@@ -15,4 +15,6 @@
 <br>
 <br>
 <br>
+<b>Credits:</b>
+<br>
 Hard & Soft Coded Extras by Rochet2
