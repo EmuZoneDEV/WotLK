@@ -10,6 +10,7 @@
 <li><a href="https://github.com/EmuZoneDEV/WotLK_World/tree/master/Chars">Chars Datenbank</a></li>
 <li><a href="https://github.com/EmuZoneDEV/WotLK_World/tree/master/World">World Datenbank</a></li>
 <li><a href="https://raw.githubusercontent.com/EmuZoneDEV/WotLK_World/master/Extras/Launcher.zip">Launcher</a></li>
+<li><a href="https://raw.githubusercontent.com/EmuZoneDEV/WotLK_World/master/Extras/Truice_v2.1.6.rar">Truice DB Editor</a></li>
 <li><a href="https://raw.githubusercontent.com/EmuZoneDEV/WotLK_World/master/Extras/patch-5.mpq">Client Patch (MPQ)</a></li>
 </p>
 <br>
