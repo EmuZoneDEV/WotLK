@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-27 22:29:14
+Date: 2019-07-30 02:55:00
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -38,7 +38,7 @@ CREATE TABLE `trinity_string` (
 INSERT INTO `trinity_string` VALUES ('1', 'You should select a character or a creature.', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('2', 'You should select a creature.', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('3', '[SERVER] %s', null, null, null, null, null, null, null, null);
-INSERT INTO `trinity_string` VALUES ('4', '|cffff0000[Event Message]: %s|r', null, null, null, null, null, null, null, null);
+INSERT INTO `trinity_string` VALUES ('4', '|cff00ff00[Event Ankündigung]:|r|cffFF4500 %s|r', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('5', 'There is no help for that command', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('6', 'There is no such command', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('7', 'There is no such subcommand', null, null, null, null, null, null, null, null);
@@ -297,8 +297,8 @@ INSERT INTO `trinity_string` VALUES ('328', 'Characters at account %s (Id: %u)',
 INSERT INTO `trinity_string` VALUES ('329', '  %s (GUID %u) %s', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('330', 'No players found!', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('331', 'Extended item cost %u does not exist.', null, null, null, null, null, null, null, null);
-INSERT INTO `trinity_string` VALUES ('332', 'GM mode is ON', null, null, null, null, null, null, null, null);
-INSERT INTO `trinity_string` VALUES ('333', 'GM mode is OFF', null, null, null, null, null, null, null, null);
+INSERT INTO `trinity_string` VALUES ('332', 'GM Modus ist AN', null, null, null, null, null, null, null, null);
+INSERT INTO `trinity_string` VALUES ('333', 'GM Modus ist AUS', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('334', 'GM Chat Badge is ON', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('335', 'GM Chat Badge is OFF', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('336', 'You repair all of %s\'s items.', null, null, null, null, null, null, null, null);
@@ -679,12 +679,12 @@ INSERT INTO `trinity_string` VALUES ('5009', 'Sound %u Played to server', null, 
 INSERT INTO `trinity_string` VALUES ('5010', 'linkGUID: %u, Entry: %u (%s)', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('5011', 'You can\'t teleport yourself to yourself!', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('5012', 'No maps found!', null, null, null, null, null, null, null, null);
-INSERT INTO `trinity_string` VALUES ('5013', '[Continent]', null, null, null, null, null, null, null, null);
-INSERT INTO `trinity_string` VALUES ('5014', '[Instance]', null, null, null, null, null, null, null, null);
-INSERT INTO `trinity_string` VALUES ('5015', '[Battleground]', null, null, null, null, null, null, null, null);
+INSERT INTO `trinity_string` VALUES ('5013', '[Kontinent]', null, null, null, null, null, null, null, null);
+INSERT INTO `trinity_string` VALUES ('5014', '[Instanz]', null, null, null, null, null, null, null, null);
+INSERT INTO `trinity_string` VALUES ('5015', '[Schlachtfeld]', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('5016', '[Arena]', null, null, null, null, null, null, null, null);
-INSERT INTO `trinity_string` VALUES ('5017', '[Raid]', null, null, null, null, null, null, null, null);
-INSERT INTO `trinity_string` VALUES ('6613', '|cfff00000[GM Announcement]: %s|r', null, null, null, null, null, null, null, null);
+INSERT INTO `trinity_string` VALUES ('5017', '[Schlachtzug]', null, null, null, null, null, null, null, null);
+INSERT INTO `trinity_string` VALUES ('6613', '|cfff00000[GM Bekanntmachung]: %s|r', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('6614', 'Notification to GM\'s - ', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('6615', '|cffffff00[|c1f40af20GM Announce by|r |cffff0000%s|cffffff00]:|r %s|r', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('6616', 'Silence is ON for %s', null, null, null, null, null, null, null, null);
@@ -697,7 +697,7 @@ INSERT INTO `trinity_string` VALUES ('10052', 'Take me to Eastwall Tower.', null
 INSERT INTO `trinity_string` VALUES ('10053', 'Take me to Crown Guard Tower.', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('10054', 'Give me the flag, I\'ll take it to the central beacon for the glory of the Alliance!', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('10055', 'Give me the flag, I\'ll take it to the central beacon for the glory of the Horde!', null, null, null, null, null, null, null, null);
-INSERT INTO `trinity_string` VALUES ('11000', '|cffffff00[|c00077766Autobroadcast|cffffff00]: |cFFF222FF%s|r', null, null, null, null, null, null, null, null);
+INSERT INTO `trinity_string` VALUES ('11000', '|cffffff00[|cff00ccffInformation|cffffff00]: |cFFF222FF%s|r', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('11001', 'You have not chosen -1 or the current realmID that you are on.', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('5020', 'Phasemask: %u', null, null, null, null, null, null, null, null);
 INSERT INTO `trinity_string` VALUES ('5021', 'Armor: %u', null, null, null, null, null, null, null, null);

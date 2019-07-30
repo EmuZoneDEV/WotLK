@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-27 22:24:03
+Date: 2019-07-30 02:54:28
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -255,7 +255,7 @@ INSERT INTO `quest_offer_reward` VALUES ('227', '274', '6', '1', '1', '0', '0', 
 INSERT INTO `quest_offer_reward` VALUES ('228', '6', '66', '0', '0', '0', '0', '0', '0', 'You killed him? That\'s no small accomplishment, $N! On behalf of the people of Darkshire and the Night Watch, I thank you.$B$BAh... there is one small matter, however...', '12340');
 INSERT INTO `quest_offer_reward` VALUES ('229', '6', '1', '0', '0', '0', '0', '0', '0', 'Yes? My father...$B$B<Her eyes become downcast.>$B$BI wish... there was something I could have done for him... If only I had talked to him before he...', '12340');
 INSERT INTO `quest_offer_reward` VALUES ('230', '0', '0', '0', '0', '0', '0', '0', '0', '<Sven reads the book\'s pages, then slams it shut.>$B$BThat shadowy figure I saw was a witness to my family\'s death! There are questions I\'d like to ask that man...if only I knew who he was!', '12340');
-INSERT INTO `quest_offer_reward` VALUES ('231', '0', '0', '0', '0', '0', '0', '0', '0', '<A ghostly voice sounds on the wind...>$B$BThis is...? Sarah? Could it be she\'s still alive? The weight is removed from my shoulders...$B$B$N. Take my sword, Archeus. As my soul is put to rest, I have no more need for it. It was forged to do good, and though I have proved myself unworthy to hold it, perhaps you will carry on the Light through it.$B$BLys, my love...', '12340');
+INSERT INTO `quest_offer_reward` VALUES ('231', '0', '0', '0', '0', '0', '0', '0', '0', '<Eine gespenstische Stimme ertönt im Wind...>$B$BDas ist...? Sarah? Kann es möglich sein dass sie doch noch am Leben ist? Diese schwere Last wird endlich von meinen Schultern genommen...$B$B$N. Nehmt mein Schwert, Archeus, sobald meine Seele zur Ruhe kommt, Ich brauche es nicht mehr. Es wurde geschmiedet, um Gutes zu tun, und obwohl ich mich als unwürdig erwiesen habe, es zu halten, werdet ihr vielleicht das Licht dadurch weiterführen.$B$BLys, meine Liebe...', '12340');
 INSERT INTO `quest_offer_reward` VALUES ('232', '1', '0', '0', '0', '0', '0', '0', '0', 'Ah, Zinge needs a kit, does she?  It saddens me that Zinge does not choose to grace myself with her sweet presence.$B$BVery well, let me procure a kit for you.', '12340');
 INSERT INTO `quest_offer_reward` VALUES ('233', '1', '0', '0', '0', '0', '0', '0', '0', 'Thank you, I\'ve been waiting for these letters for quite some time...$b$bUnfortunately, these letters aren\'t all for me. This one is addressed to Grelin Whitebeard. He\'s not too far away if you\'d like to deliver it to him.', '12340');
 INSERT INTO `quest_offer_reward` VALUES ('234', '1', '0', '0', '0', '0', '0', '0', '0', 'Ahh, excellent. It\'s been a while since I received word from Ironforge.', '12340');
