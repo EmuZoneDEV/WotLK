@@ -17,6 +17,7 @@
 </p>
 <br>
 <br>
+<p div align="center"><img src="https://raw.githubusercontent.com/EmuZoneDEV/WotLK/master/docs/images/launcher_view.png"></img>
 <br>
 <b>Credits:</b>
 <br>
