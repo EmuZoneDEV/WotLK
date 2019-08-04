@@ -31,11 +31,15 @@ UPDATE quest_template SET ObjectiveText4='Alchemist Finkelsteins Aufgabe' WHERE 
 UPDATE quest_template SET ObjectiveText1='Nerubische Tunnel versiegelt' WHERE ID=12598;
 UPDATE quest_template SET ObjectiveText1='Gefangener Fußsoldat befreit' WHERE ID=12606;
 UPDATE quest_template SET ObjectiveText1='Seuchensprüher im Netz gefangen und zerstört' WHERE ID=12555;
-UPDATE quest_template SET ObjectiveText1='Schlammige Moormade gefunden' WHERE ID=12557;
+UPDATE quest_template SET ObjectiveText1='Schlammige Moormade gefunden' WHERE ID=12557
 UPDATE quest_template SET ObjectiveText1='Anhänger von Sseratus erschlagen ' WHERE ID=12508;
-UPDATE quest_template SET ObjectiveText1='Befehl an Argentumsoldaten weitergegeben' WHERE ID=12504;
+UPDATE quest_template SET ObjectiveText1='Befehl an Argentumsoldaten weitergegeben' WHERE ID=12504
 UPDATE creature_template SET scale='1.25' WHERE entry=480;
 UPDATE creature_template SET scale='1.25' WHERE entry=48;
 UPDATE creature_template SET scale='1.25' WHERE entry=898;
 UPDATE creature_template SET scale='1.5' WHERE entry=533;
 UPDATE creature_template SET scale='1.5' WHERE entry=522;
+UPDATE quest_template SET ObjectiveText1='Befreiung der Diener von Razelikh' WHERE ID=2681;
+UPDATE quest_template SET ObjectiveText1='Nachzügler der Venture Co. ausgeräuchert' WHERE ID=12324;
+UPDATE quest_template SET ObjectiveText1='Hordler in der Venturebucht eliminiert' WHERE ID=12316;
+UPDATE quest_template SET ObjectiveText1='Allianz in der Venturebucht besiegt' WHERE ID=12317;

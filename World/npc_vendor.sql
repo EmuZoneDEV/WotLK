@@ -10,7 +10,7 @@ Target Server Type    : MYSQL
 Target Server Version : 50644
 File Encoding         : 65001
 
-Date: 2019-07-27 22:19:59
+Date: 2019-08-04 03:40:18
 */
 
 SET FOREIGN_KEY_CHECKS=0;
@@ -37503,3 +37503,12 @@ INSERT INTO `npc_vendor` VALUES ('190001', '0', '49636', '0', '0', '2407', '0');
 INSERT INTO `npc_vendor` VALUES ('190001', '0', '49286', '0', '0', '2407', '0');
 INSERT INTO `npc_vendor` VALUES ('190001', '0', '34092', '0', '0', '2407', '0');
 INSERT INTO `npc_vendor` VALUES ('190001', '0', '46109', '0', '0', '2408', '0');
+INSERT INTO `npc_vendor` VALUES ('3935', '0', '30817', '0', '0', '0', '0');
+INSERT INTO `npc_vendor` VALUES ('3935', '0', '2678', '0', '0', '0', '0');
+INSERT INTO `npc_vendor` VALUES ('190078', '0', '300073', '20', '3600', '0', '0');
+INSERT INTO `npc_vendor` VALUES ('190078', '0', '100050', '20', '3600', '0', '0');
+INSERT INTO `npc_vendor` VALUES ('190078', '0', '100051', '20', '3600', '0', '0');
+INSERT INTO `npc_vendor` VALUES ('190078', '0', '100031', '20', '10800', '0', '0');
+INSERT INTO `npc_vendor` VALUES ('190078', '0', '990099', '10', '18000', '0', '0');
+INSERT INTO `npc_vendor` VALUES ('190078', '0', '300074', '20', '18000', '0', '0');
+INSERT INTO `npc_vendor` VALUES ('190078', '0', '300075', '20', '18000', '0', '0');
