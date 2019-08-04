@@ -19,6 +19,8 @@
 <br>
 <p div align="center"><img src="https://raw.githubusercontent.com/EmuZoneDEV/WotLK/master/docs/images/launcher_view.png"></img>
 <br>
+<br>
+<br>
 <b>Credits:</b>
 <br>
 Hard & Soft Coded Extras by Rochet2
